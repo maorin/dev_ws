@@ -33,3 +33,7 @@ __pycache__
 *.app
 /.project
 /.pydevproject
+/build/
+/data/
+/install/
+/log/
